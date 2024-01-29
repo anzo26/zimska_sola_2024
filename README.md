@@ -1,1 +1,1 @@
-# zimska_sola_2024
+# FERI zimska šola 2024
