@@ -1,11 +1,8 @@
 package si.um.feri.vao;
 
-import jakarta.inject.Inject;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import si.um.feri.dao.PaketRepository;
-import si.um.feri.dto.PaketDto;
 import si.um.feri.dto.UporabnikDto;
 
 @Entity
