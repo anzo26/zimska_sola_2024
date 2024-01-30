@@ -22,7 +22,6 @@ public class Paket {
     private String naziv, tip, opis;
     private int kolicina_prenosa;
     private Double cena;
-    private LocalDateTime created = LocalDateTime.now();
 
     public Paket(PaketDto dto) {
         setNaziv(dto.naziv());
